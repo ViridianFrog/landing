@@ -192,3 +192,11 @@ button{
     font-size: 24px;
 
 }
+
+.footer {
+    color: #e5e7eb;
+    background-color: #1f2937;
+    font-family: roboto, sans-serif;
+    padding: 20px;
+    text-align: center;
+}
